@@ -15,7 +15,7 @@ class Person:
 
 p1 = Person("krasi", 19, 192)
 p2 = Person("robi", 20, 178)
-
+p3 = Person("sashko", 19, 182)
 
 class Worker(Person):
 
