@@ -1,0 +1,15 @@
+This piece of code is a project of mine, this is one of my first projects and the first one in Python.
+It ain't big - for sure, but it implements the few things I've been studying.
+
+When you start the program you can choose from four options : ADD/DELETE/UPDATE/END
+
+ADD: adds a task to the to-do list. The program will prompt you to enter the task's content.
+It gets the time and date and num automatically.
+
+DELETE: deletes a task from the to-do list. The program prompts you the num of the task and it matches
+the task from the list and it deletes it.
+
+UPDATE: updates the task's content to the list. The program prompts you 2 things - desired task's num and the
+updated content of the task.
+
+END: this is not a function, this changes the value of the "ending" boolean to False, which makes the while loop stop.
